@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+body{
+  background:url(C:\Users\samresh\workspace\servletMVC\WebContent\images\RedArt.jpg) no-repeat left;
+  -webkit-filter: blur(5px);
+  color: #32CD32;
+  
+     }
+     h1 {
+    color: Olive;
+    text-align: center;
+}
